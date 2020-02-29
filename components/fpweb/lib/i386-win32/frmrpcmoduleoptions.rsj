@@ -1,0 +1,7 @@
+{"version":1,"strings":[
+{"hash":123555013,"name":"frmrpcmoduleoptions.scaption","sourcebytes":[67,114,101,97,116,101,32,97,32,110,101,119,32,74,83,79,78,45,82,80,67,32,109,111,100,117,108,101],"value":"Create a new JSON-RPC module"},
+{"hash":244670345,"name":"frmrpcmoduleoptions.sregisterjson","sourcebytes":[82,101,103,105,115,116,101,114,32,74,83,79,78,45,82,80,67,32,104,97,110,100,108,101,114,115,32,105,110,32,102,97,99,116,111,114,121],"value":"Register JSON-RPC handlers in factory"},
+{"hash":220793619,"name":"frmrpcmoduleoptions.sjsonclass","sourcebytes":[74,83,79,78,45,82,80,67,32,99,108,97,115,115],"value":"JSON-RPC class"},
+{"hash":64777109,"name":"frmrpcmoduleoptions.sregisterwebm","sourcebytes":[82,101,103,105,115,116,101,114,32,119,101,98,32,109,111,100,117,108,101],"value":"Register web module"},
+{"hash":153429304,"name":"frmrpcmoduleoptions.shttppath","sourcebytes":[72,84,84,80,32,80,97,116,104],"value":"HTTP Path"}
+]}

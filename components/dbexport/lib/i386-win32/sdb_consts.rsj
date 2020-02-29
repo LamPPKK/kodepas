@@ -1,0 +1,20 @@
+{"version":1,"strings":[
+{"hash":216784046,"name":"sdb_consts.sexecute","sourcebytes":[69,120,101,99,117,116,101,32,46,46,46],"value":"Execute ..."},
+{"hash":175836814,"name":"sdb_consts.serrnodatasetassigned","sourcebytes":[68,97,116,97,69,120,112,111,114,116,101,114,32,104,97,115,32,110,111,32,68,97,116,97,115,101,116,32,97,115,115,105,103,110,101,100,46],"value":"DataExporter has no Dataset assigned."},
+{"hash":190387715,"name":"sdb_consts.serropeningdataset","sourcebytes":[67,111,117,108,100,32,110,111,116,32,111,112,101,110,32,100,97,116,97,115,101,116,32,102,111,114,32,101,120,112,111,114,116,105,110,103,58,32,37,115],"value":"Could not open dataset for exporting: %s"},
+{"hash":18101198,"name":"sdb_consts.snrecordsexported","sourcebytes":[83,117,99,99,101,115,115,102,117,108,108,121,32,101,120,112,111,114,116,101,100,32,37,100,32,114,101,99,111,114,100,115,46],"value":"Successfully exported %d records."},
+{"hash":132758222,"name":"sdb_consts.scancelrecordsexported","sourcebytes":[69,120,112,111,114,116,101,100,32,37,100,32,98,101,102,111,114,101,32,117,115,101,114,32,99,97,110,99,101,108,101,100,46],"value":"Exported %d before user canceled."},
+{"hash":124519348,"name":"sdb_consts.sdb_selectdataexportformat","sourcebytes":[83,101,108,101,99,116,32,100,97,116,97,32,101,120,112,111,114,116,32,70,111,114,109,97,116],"value":"Select data export Format"},
+{"hash":236290938,"name":"sdb_consts.sdb_availableexportformats","sourcebytes":[65,118,97,105,108,97,98,108,101,32,101,120,112,111,114,116,32,102,111,114,109,97,116,115,58],"value":"Available export formats:"},
+{"hash":56508547,"name":"sdb_consts.sprogress","sourcebytes":[69,120,112,111,114,116,105,110,103,32,37,100,32,114,101,99,111,114,100,115],"value":"Exporting %d records"},
+{"hash":3647283,"name":"sdb_consts.sdb_exportprogress","sourcebytes":[69,120,112,111,114,116,32,112,114,111,103,114,101,115,115],"value":"Export progress"},
+{"hash":177752476,"name":"sdb_consts.sdb_cancel","sourcebytes":[38,67,97,110,99,101,108],"value":"&Cancel"},
+{"hash":90856004,"name":"sdb_consts.sdb_configuredataexport","sourcebytes":[67,111,110,102,105,103,117,114,101,32,100,97,116,97,32,101,120,112,111,114,116],"value":"Configure data export"},
+{"hash":46419594,"name":"sdb_consts.sdb_filename","sourcebytes":[70,105,108,101,110,97,109,101,58],"value":"Filename:"},
+{"hash":80724659,"name":"sdb_consts.sdb_fields","sourcebytes":[70,105,101,108,100,115],"value":"Fields"},
+{"hash":59734743,"name":"sdb_consts.sdb_formatting","sourcebytes":[70,111,114,109,97,116,116,105,110,103],"value":"Formatting"},
+{"hash":126523556,"name":"sdb_consts.sdb_selectfieldstoexport","sourcebytes":[83,101,108,101,99,116,32,102,105,38,101,108,100,115,32,116,111,32,101,120,112,111,114,116],"value":"Select fi&elds to export"},
+{"hash":96981818,"name":"sdb_consts.sdb_propertiesforselectedfield","sourcebytes":[80,114,111,112,101,114,116,105,101,115,32,102,111,114,32,115,101,108,101,99,116,101,100,32,102,105,101,108,100,58],"value":"Properties for selected field:"},
+{"hash":41158000,"name":"sdb_consts.sdb_moveselectedfieldup","sourcebytes":[77,111,118,101,32,115,101,108,101,99,116,101,100,32,102,105,101,108,100,32,117,112],"value":"Move selected field up"},
+{"hash":67380398,"name":"sdb_consts.sdb_moveselectedfielddown","sourcebytes":[77,111,118,101,32,115,101,108,101,99,116,101,100,32,102,105,101,108,100,32,100,111,119,110],"value":"Move selected field down"}
+]}
