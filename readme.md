@@ -33,18 +33,18 @@ Bạn truy cập vào Control Panel trên PC của bạn và tìm vào đường
 
 `Control Panel\System and Security\System`
 
-![alt](https://github.com/kodestudio/kodepas/blob/master/images/controlpanel.png)
+![alt](https://github.com/kodestudio/kodepas/blob/master/images/controlpanel.PNG)
 
 Sau đó chọn vào Mục ** Advanced System Settings **
 
-![alt](https://github.com/kodestudio/kodepas/blob/master/images/systempro.png)
+![alt](https://github.com/kodestudio/kodepas/blob/master/images/systempro.PNG)
 
 Tại đây chọn Enviroment Variables
 
-![alt](https://github.com/kodestudio/kodepas/blob/master/images/vari.png)
+![alt](https://github.com/kodestudio/kodepas/blob/master/images/vari.PNG)
 
 Bạn nhấn đúp chuột vào mục PATH
 
-![alt](https://github.com/kodestudio/kodepas/blob/master/images/path.png)
+![alt](https://github.com/kodestudio/kodepas/blob/master/images/path.PNG)
 
 Rồi chọn New
