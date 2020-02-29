@@ -29,3 +29,22 @@ Chuyển toàn bộ mã nguồn vừa tải về vào thư mục trên ổ C:\
 
 ### Bước 3: Thêm KodePas vào biến môi trường (Bước quan trọng)
 
+Bạn truy cập vào Control Panel trên PC của bạn và tìm vào đường dẫn
+
+`Control Panel\System and Security\System`
+
+![alt](https://github.com/kodestudio/kodepas/blob/master/images/controlpanel.png)
+
+Sau đó chọn vào Mục ** Advanced System Settings **
+
+![alt](https://github.com/kodestudio/kodepas/blob/master/images/systempro.png)
+
+Tại đây chọn Enviroment Variables
+
+![alt](https://github.com/kodestudio/kodepas/blob/master/images/vari.png)
+
+Bạn nhấn đúp chuột vào mục PATH
+
+![alt](https://github.com/kodestudio/kodepas/blob/master/images/path.png)
+
+Rồi chọn New
