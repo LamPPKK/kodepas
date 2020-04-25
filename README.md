@@ -1,7 +1,7 @@
 ![alt](https://github.com/kodestudio/kodepas/blob/master/images/kodelogo.png)
 **KodePas là mô trường phát triển phần mềm cho ngôn ngữ lập trình Pascal**
 
-KodePas hiện tại đang trong quá trình hoàn tất mã nguồn, chuyển từ bản Beta sáang Stable nên sẽ không ổn định. 
+KodePas hiện tại đang trong quá trình hoàn tất mã nguồn, chuyển từ bản Beta sang Stable nên sẽ không ổn định. 
 
 Chúng tôi đóng phần tài liệu KodePas lại để thực hiện quá trình chuyển giao này. 
 
