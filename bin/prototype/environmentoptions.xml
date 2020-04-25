@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <EnvironmentOptions>
+    <Debugger Class="TGDBMIDebugger">
+      <ClassTGDBMIDebugger>
+        <Config ConfigClass="TGDBMIDebugger" DebuggerFilename="gdb" Active="True" UID="{9806E5F2-19DB-4895-BD8D-7B733D53026C}"/>
+      </ClassTGDBMIDebugger>
+      <WatchesDlg ColumnNameWidth="-1" ColumnValueWidth="-1"/>
+      <CallStackDlg ViewCount="0"/>
+    </Debugger>
+    <DebuggerFilename Value="gdb"/>
+    <Version Value="110" Lazarus="1.0"/>
+    <ExternalTools Version="3"/>
+    <LazarusDirectory Value="KodePasDirectoryValue">
+    </LazarusDirectory>
+    <CompilerFilename Value="fpc">
+    </CompilerFilename>
+    <FPCSourceDirectory Value="FPCDirectoryValue"/>
+    <MakeFilename>
+      <History Count="1">
+        <Item1 Value="/usr/bin/make"/>
+      </History>
+    </MakeFilename>
+  </EnvironmentOptions>
+</CONFIG>
