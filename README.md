@@ -7,4 +7,4 @@ Chúng tôi đóng phần tài liệu KodePas lại để thực hiện quá tr�
 
 Bạn có thể nhấn vào dấu Star để nhận thên không báo từ GitHub về những thay đổi của KodePas.
 
-Quá trình chuyển giao sẽ hoàn thành sớm, cảm ơn bạn rất nhiều..
+Quá trình chuyển giao sẽ hoàn thành sớm, cảm ơn bạn rất nhiều.
