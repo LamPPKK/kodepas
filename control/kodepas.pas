@@ -10,7 +10,10 @@ uses crt, sysutils,
     kpini in 'file/kpini',
     kprun in 'run/kprun',
     kptime in 'time/kptime',
-    kpstart in 'start/kpstart';
+    kpstart in 'start/kpstart',
+    legends in './effect/legends/legends',
+    magicletter in './effect/magic/magicletter',
+    kpversion in './version/kpversion';
 begin
     if (ParamCount > 0) then
     begin
@@ -22,6 +25,8 @@ begin
             'log' : kplog_get;
             'run': kprun_run;
             'start' : kpstart_run;
+            'legends': legends_run;
+            'version': kpversion_run;
             else terminalprint_error('[Error] Unknow param (' + paramStr(1) + ') try "kodepas help" to see more param');
         end;
     end
