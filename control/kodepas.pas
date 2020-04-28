@@ -13,7 +13,8 @@ uses crt, sysutils,
     kpstart in 'start/kpstart',
     legends in './effect/legends/legends',
     magicletter in './effect/magic/magicletter',
-    kpversion in './version/kpversion';
+    kpversion in './version/kpversion',
+    getkpdir in './system/getkpdir';
 begin
     if (ParamCount > 0) then
     begin

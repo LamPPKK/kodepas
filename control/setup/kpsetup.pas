@@ -75,6 +75,10 @@ implementation
                     rewrite(f);
                     for i:=1 to line do writeln(f, a[i]);
                     close(f);
+                    assign(f, getuserdir + '/.kodepas/quick.txt');
+                    rewrite(f);
+                    writeln(f, kpdir);
+                    close(f);
                     terminalprint_complete('[Done ] Setup complete');
                 end;
             'windows' : 
@@ -84,6 +88,10 @@ implementation
                     assign(f, getuserdir + '/.kodepas/environmentoptions.xml');
                     rewrite(f);
                     for i:=1 to line do writeln(f, a[i]);
+                    close(f);
+                    assign(f, getuserdir + '/.kodepas/quick.txt');
+                    rewrite(f);
+                    writeln(f, kpdir);
                     close(f);
                     terminalprint_complete('[Done ] Setup complete');
                 end;
